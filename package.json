@@ -1,5 +1,5 @@
 {
-  "name": "remix-vite-cloudflare-tailwind",
+  "name": "remix-cloudflare-biome",
   "private": true,
   "sideEffects": false,
   "type": "module",
