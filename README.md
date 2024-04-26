@@ -1,7 +1,6 @@
 # Modified Template
 
 - Remove eslint, add Biome
-- add Tailwind
 
 Original Template README below:
 
